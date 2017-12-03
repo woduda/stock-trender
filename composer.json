@@ -1,0 +1,14 @@
+{
+    "name": "woduda/stock-trender",
+    "authors": [
+        {"name": "Wojciech Duda", "email": "wo.duda@gmail.com"}
+    ],
+    "require": {
+        "doctrine/orm": "^2.5"
+    },
+    "autoload": {
+        "psr-0" : {
+            "WoDuda\\StockTrender" : "src"
+        }
+    }
+}
